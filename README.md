@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer | React.js & ASP.NET Core, Node.js, PHP| REST APIs, SQL, MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Code+that+doesn't+just+run+%E2%80%94+it+performs.;Cut+backend+response+time+by+40%25;250%2B+DSA+problems+solved+on+LeetCode;Building+scalable+full+stack+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Code+that+doesn't+just+run+%E2%80%94+it+performs.;Cut+backend+response+time+by+40%25;300%2B+DSA+problems+solved+on+LeetCode;Building+scalable+full+stack+web+applications" alt="Typing SVG" />
 </p>
 
 ---
