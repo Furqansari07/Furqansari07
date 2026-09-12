@@ -59,7 +59,7 @@
 |---|---|---|
 | 🍳 **[Recipe Finder](https://github.com/Furqansari07/Recipe_Finder_Complete)** | Full-stack recipe management platform with JWT authentication, CRUD operations, and image uploads. 8 REST API endpoints handling 500+ daily requests. | React.js, PHP, MySQL |
 | 🎙️ **[Virtual Meet Summarizer](https://github.com/Furqansari07/Virtual-Meet)** | AI-powered meeting transcription and summarization tool using NLP. Condenses 60-minute meetings into 2-3 minute summaries with 97% information retention. | Python, Flask, MongoDB, NLP |
-| 🌐 **[My Portfolio](https://github.com/Furqansari07/My-Portfolio)** | Personal portfolio website showcasing my skills, projects, and experience. | React.js, Bootstrap |
+| 🌐 **[My Portfolio](https://github.com/Furqansari07/portfolio)** | Personal portfolio website showcasing my skills, projects, and experience. | React.js, Bootstrap |
 | ❓ **[Quiz Website](https://github.com/Furqansari07/Quiz-site)** | Responsive quiz application with dynamic question fetching from an API, dark mode, and multiple login options. | HTML, CSS, JavaScript |
 
 ---
