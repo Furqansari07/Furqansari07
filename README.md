@@ -12,7 +12,7 @@
 - 🎓 Computer Engineering graduate from M. H. Saboo Siddik College of Engineering (CGPA 9.14/10, top 5% of batch)
 - 💻 I build full stack web applications using **React.js**, **ASP.NET Core**, and **C#** on the frontend/backend, with **MySQL**, **MongoDB**, and **REST APIs** tying it together
 - ⚡ Cut backend response time by **40%** through database query optimization at Jamuna Foundation
-- 🧠 Solved **250+ DSA problems** on LeetCode (Top 15% globally)
+- 🧠 Solved **300+ DSA problems** on LeetCode (Top 15% globally)
 - 🛠️ Recent builds: a JWT-secured **Recipe Finder** app and an AI-powered **Virtual Meet Summarizer**
 - 📌 Currently open to **Software Engineer** and **Full Stack Developer** roles
 - 📫 Reach me at **Furqansari2412@gmail.com**
