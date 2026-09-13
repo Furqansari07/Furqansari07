@@ -10,10 +10,10 @@
 ### About Me
 
 - 🎓 Computer Engineering graduate from M. H. Saboo Siddik College of Engineering (CGPA 9.14/10, top 5% of batch)
-- 💻 I build full stack web applications using **React.js**, **ASP.NET Core**, and **C#** on the frontend/backend, with **MySQL**, **MongoDB**, and **REST APIs** tying it together
+- 💻 I build full stack web applications using **React.js**, **Next.js**, **ASP.NET Core**, and **C#** on the frontend/backend, with **MySQL**, **MongoDB**, and **REST APIs** tying it together
 - ⚡ Cut backend response time by **40%** through database query optimization at Jamuna Foundation
 - 🧠 Solved **300+ DSA problems** on LeetCode (Top 15% globally)
-- 🛠️ Recent builds: a JWT-secured **Recipe Finder** app and an AI-powered **Virtual Meet Summarizer**
+- 🛠️ Recent builds: **ResQPlate**, a full-stack food-rescue platform with role-based auth and real-time donation tracking; a JWT-secured **Recipe Finder** app; and an AI-powered **Virtual Meet Summarizer**
 - 📌 Currently open to **Software Engineer** and **Full Stack Developer** roles
 - 📫 Reach me at **Furqansari2412@gmail.com**
 
@@ -26,9 +26,11 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -50,6 +52,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
@@ -57,6 +60,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🍽️ **[ResQPlate](https://github.com/Furqansari07/Resqplate)** ([Live Demo](https://resqplate-cyan.vercel.app)) | Full-stack food-rescue platform connecting surplus-food donors, verified volunteers, and shelters/NGOs in real time. Role-based auth (credentials, email OTP, Google), end-to-end donation lifecycle tracking, and an admin panel for verification and oversight. | Next.js, TypeScript, MongoDB, NextAuth.js, Cloudinary |
 | 🍳 **[Recipe Finder](https://github.com/Furqansari07/Recipe_Finder_Complete)** | Full-stack recipe management platform with JWT authentication, CRUD operations, and image uploads. 8 REST API endpoints handling 500+ daily requests. | React.js, PHP, MySQL |
 | 🎙️ **[Virtual Meet Summarizer](https://github.com/Furqansari07/Virtual-Meet)** | AI-powered meeting transcription and summarization tool using NLP. Condenses 60-minute meetings into 2-3 minute summaries with 97% information retention. | Python, Flask, MongoDB, NLP |
 | 🌐 **[My Portfolio](https://github.com/Furqansari07/portfolio)** | Personal portfolio website showcasing my skills, projects, and experience. | React.js, Bootstrap |
